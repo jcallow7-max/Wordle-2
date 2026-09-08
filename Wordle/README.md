@@ -31,7 +31,7 @@ https://drive.google.com/drive/u/2/folders/1zCAX6FBvmcTa-uM36zb7UFcjUhQQz3PY
 
 ## Notes
 
-One challenge was understanding how the settings dictionary connected to the different parts of the game. I had to understand how the values were pulled from the dictionary and cast to the correct Swift types before updating the number of letters, number of guesses, theme, and Alien Wordle setting.
+Alien
 
 ## License
 
