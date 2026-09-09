@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://drive.google.com/drive/u/2/folders/1zCAX6FBvmcTa-uM36zb7UFcjUhQQz3PY
-
+https://drive.google.com/file/d/1VdKv_ZSHp9kV9fFUJxYiOzgCmg5ZFCU2/view?usp=sharing
 ## Notes
 
 Alien
